@@ -46,7 +46,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="css-important-style" usepfg="false" frgb="-3407872" usepbg="true" brgb="-14077644" usepfont="false" font="1"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="css-medium-style" usepfg="false" frgb="-6684673" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="css-uri-style" usepfg="false" frgb="-3368500" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-comment-style" usepfg="false" frgb="-16722432" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-comment-style" usepfg="false" frgb="-16730790" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-string-style" usepfg="false" frgb="-1280512" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-keyword-style" usepfg="false" frgb="-9990991" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-identifier-style" usepfg="false" frgb="-1579033" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
@@ -116,6 +116,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-number-style" usepfg="false" frgb="-13022" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-brace-style" usepfg="true" frgb="-1579033" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-operator-style" usepfg="true" frgb="-1579033" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="class oracle.dbtools.worksheet.editor.ClickableScriptErrorPlugin-COMP_STYLE" usepfg="false" frgb="-16776961" usepbg="false" brgb="-1" usepfont="false" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="js-comment-style" usepfg="true" frgb="-1579033" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="js-string-style" usepfg="true" frgb="-1579033" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="js-keyword-style" usepfg="true" frgb="-1579033" usepbg="true" brgb="-14077644" usepfont="true" font="0"/>
@@ -166,7 +167,6 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="inline-character-add-highlight-style" enabled="true" priority="20" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="-1" urgb="-16711936"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="inline-character-delete_highlight-style" enabled="true" priority="20" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="-1" urgb="-65536"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="click-navigation" enabled="true" priority="70" usefg="true" frgb="-16776961" usebg="false" brgb="0" fs="0" us="0" urgb="-16776961"/>
-                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="bookmark-style" enabled="false" priority="20" usefg="false" frgb="0" usebg="true" brgb="-3342337" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="disabled-breakpoint" enabled="false" priority="25" usefg="true" frgb="-16777216" usebg="true" brgb="-16711936" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="enabled-breakpoint" enabled="true" priority="30" usefg="true" frgb="-16777216" usebg="true" brgb="-13108" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="execution-point" enabled="true" priority="40" usefg="true" frgb="-1" usebg="true" brgb="-10053121" fs="0" us="-1" urgb="0"/>
@@ -174,6 +174,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="oracle.dbtools.raptor.phighlight.HighlightAddin-W" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="3" urgb="-14336"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="oracle.dbtools.raptor.phighlight.HighlightAddin-D" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-65281"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="oracle.dbtools.raptor.phighlight.HighlightAddin-J" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-14336"/>
+                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="bookmark-style" enabled="false" priority="20" usefg="false" frgb="0" usebg="true" brgb="-3342337" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="olapdml-error-highlight-style" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-65281"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="olapdml-warning-highlight-style" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="3" urgb="-14336"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="olapdml-fatal-highlight-style" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="3" urgb="-65536"/>
@@ -186,10 +187,11 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="hcssyntaxbuilder.squiggly" enabled="true" priority="2" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-65536"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="hcssyntaxbuilder.inner_selection" enabled="true" priority="100" usefg="false" frgb="0" usebg="true" brgb="-9463605" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="highlight-selection" enabled="true" priority="100" usefg="false" frgb="0" usebg="true" brgb="-12562863" fs="0" us="-1" urgb="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="find-select-region" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-2955521" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="folded-block-highlight" enabled="true" priority="99" usefg="false" frgb="0" usebg="false" brgb="0" fs="2" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="folding-fade-highlight" enabled="true" priority="100" usefg="false" frgb="0" usebg="true" brgb="-11382190" fs="0" us="-1" urgb="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="todo-style" enabled="true" priority="20" usefg="true" frgb="-65281" usebg="false" brgb="0" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="tab-field" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-1579033" fs="0" us="-1" urgb="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="todo-style" enabled="true" priority="20" usefg="true" frgb="-65281" usebg="false" brgb="0" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="template-current-field" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-4144960" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="audit-error" enabled="true" priority="60" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-65536"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="audit-warning" enabled="true" priority="55" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-10587"/>
@@ -219,6 +221,5 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="css-style-separator-style" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="5" urgb="-4144960"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="oracle.dbdev.phighlight.HighlightAddin-E" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-65536"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="oracle.dbdev.phighlight.HighlightAddin-W" enabled="true" priority="50" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-987136"/>
-                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="find-select-region" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-2955521" fs="0" us="-1" urgb="0"/>
                </Value>
             </Item>
